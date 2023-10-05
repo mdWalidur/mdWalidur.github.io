@@ -20,6 +20,6 @@ Jr. Executive Officer @ Acsotex Ltd
 Reading, Video games, Coding
 
 ### Social accounts
-Facebook: https://www.facebook.com/profile.php?id=100095497299140
-Instagram: https://www.instagram.com/ratulwr/
+Facebook: www.facebook.com/profile.php?id=100095497299140
+Instagram: www.instagram.com/ratulwr/
 
