@@ -19,3 +19,7 @@ Jr. Executive Officer @ Acsotex Ltd
 ### Hobby
 Reading, Video games, Coding
 
+### Social accounts
+Facebook: https://www.facebook.com/profile.php?id=100095497299140
+Instagram: https://www.instagram.com/ratulwr/
+
