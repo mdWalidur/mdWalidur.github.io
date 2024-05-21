@@ -1,5 +1,5 @@
 # Md Walidur Rahman
-IT expert
+IT 
 
 ### Adress 
 Vindäsinkatu 2 ,Kokkola-67100,Finland
