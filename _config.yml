@@ -1,5 +1,12 @@
-title: Md Walidur Rahman
-logo: ME pic.jpg
-description: IT expert
-show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+
+title: "Md Walidur Rahman"
+description: "IT expert"
+minimal_mistakes_skin: "air"
+
+author:
+  name: "Md Walidur Rahman"
+  avatar: "/path/to/avatar.jpg" # Replace with the actual path to your profile picture
+  bio: "IT expert and enthusiast"
