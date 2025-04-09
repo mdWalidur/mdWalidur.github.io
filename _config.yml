@@ -10,49 +10,29 @@ plugins:
 
 title: "Md Walidur Rahman's Tech Hub"
 description: "Insights, tutorials, and news on IT and software development"
-baseurl: ""        # The subpath of your site, e.g. /blog
-url: "https://mdwalidurrahman.com"   # The base hostname & protocol for your site
+baseurl: ""
+url: "https://mdwalidurrahman.com"
 minimal_mistakes_skin: "air"
 
 author:
   name: "Md Walidur Rahman"
-  avatar: "/assets/images/profile.jpg"   # Update this to your actual profile picture path
+  avatar: "/assets/images/profile.jpg"
   bio: "IT expert, software developer, and tech enthusiast sharing tips and insights."
-  email: "contact@mdwalidurrahman.com"
-  location: "Dhaka, Bangladesh"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/mdwalidurrahman"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/mdwalidurrahman"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/mdwalidurrahman"
 
+# Navigation setup (optional, but recommended)
 header:
   navigation:
     - title: "Home"
       url: /
-    - title: "About"
-      url: /about/
-    - title: "Blog"
-      url: /blog/
-    - title: "Projects"
-      url: /projects/
+    - title: "CV"
+      url: /cv/
 
+# Footer (optional)
 footer:
   social:
     - title: "GitHub"
       url: "https://github.com/mdwalidurrahman"
       icon: "fab fa-github"
-    - title: "LinkedIn"
-      url: "https://linkedin.com/in/mdwalidurrahman"
-      icon: "fab fa-linkedin"
-    - title: "Twitter"
-      url: "https://twitter.com/mdwalidurrahman"
-      icon: "fab fa-twitter"
 
 markdown: kramdown
 highlighter: rouge
