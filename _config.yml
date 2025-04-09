@@ -1,23 +1,19 @@
 # _config.yml
 
-# Use the Minimal Mistakes remote theme
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
-# Plugins to extend functionality
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
 
-# Site settings
 title: "Md Walidur Rahman's Tech Hub"
 description: "Insights, tutorials, and news on IT and software development"
 baseurl: ""        # The subpath of your site, e.g. /blog
 url: "https://mdwalidurrahman.com"   # The base hostname & protocol for your site
 minimal_mistakes_skin: "air"
 
-# Author information
 author:
   name: "Md Walidur Rahman"
   avatar: "/assets/images/profile.jpg"   # Update this to your actual profile picture path
@@ -35,7 +31,6 @@ author:
       icon: "fab fa-twitter"
       url: "https://twitter.com/mdwalidurrahman"
 
-# Navigation settings
 header:
   navigation:
     - title: "Home"
@@ -47,7 +42,6 @@ header:
     - title: "Projects"
       url: /projects/
 
-# Footer social links (displayed as icons)
 footer:
   social:
     - title: "GitHub"
@@ -60,19 +54,11 @@ footer:
       url: "https://twitter.com/mdwalidurrahman"
       icon: "fab fa-twitter"
 
-# Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 
-# SEO settings for enhanced search engine presence
 seo:
   type: "Person"
   name: "Md Walidur Rahman"
   description: "IT expert and technology enthusiast dedicated to sharing insights and expertise."
-
-# Other optional configurations (uncomment and modify as needed)
-# exclude: [README.md, Gemfile, Gemfile.lock]
-# include: [".htaccess"]
-
-# End of configuration
