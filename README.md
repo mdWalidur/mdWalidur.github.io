@@ -1,11 +1,8 @@
 ---
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
+layout: single
 title: "Curriculum Vitae - Md Walidur Rahman"
-description: "Professional CV for Md Walidur Rahman - IT Student & Experienced Professional"
-minimal_mistakes_skin: "air"
+description: "Professional CV for Md Walidur Rahman - IT student and experienced professional"
+permalink: /cv/
 ---
 
 # Md Walidur Rahman
@@ -23,34 +20,34 @@ An ambitious, honest, and goal-oriented individual with a passion for leadership
 
 ## Education
 
-**Bachelor of Engineering in Information Technology**  
-*Centria University of Applied Sciences, Kokkola, Finland*  
-_01/07/2023 - Present_
+### Bachelor of Engineering in Information Technology
+**Centria University of Applied Sciences, Kokkola, Finland**  
+_07/2023 - Present_
 
-**Higher Secondary Certificate (HSC)**  
-*Government Shahid Suhrawardi College, Dhaka, Bangladesh*  
+### Higher Secondary Certificate (HSC)
+**Government Shahid Suhrawardi College, Dhaka, Bangladesh**  
 _2019 - 2021_
 
-**Secondary School Certificate (SSC)**  
-*Adarsha School, Narayanganj, Bangladesh_
+### Secondary School Certificate (SSC)
+**Adarsha School, Narayanganj, Bangladesh**
 
 ## Work Experience
 
 ### SEO and Backlink Specialist Intern
 **Herizon.io**  
-*June 2024 - August 2024*  
+_June 2024 - August 2024_
 - Analyzed website performance and implemented SEO strategies.
 - Researched and developed high-quality backlinks.
 - Collaborated with the marketing team to increase online visibility.
 
 ### Cleaner (Siivooja)
 **Coor Service Management, Tampere, Finland**  
-*19/10/2023 - Present*  
+_19/10/2023 - Present_
 - Performed versatile cleaning tasks to maintain a hygienic and organized environment.
 
 ### Junior Executive Officer
 **Acsotex LTD, Narayanganj, Bangladesh**  
-*01/07/2020 - 31/01/2023*  
+_01/07/2020 - 31/01/2023_
 - Prepared and processed official documents, invoices, and payrolls.
 - Maintained efficient communication with stakeholders.
 
@@ -63,5 +60,4 @@ _2019 - 2021_
 
 ## Languages
 - **Bengali:** Mother tongue
-- **English:** Independent User  
-  *(Reading: B1, Writing: B2, Interaction: B1)*
+- **English:** Independent User (Reading: B1, Writing: B2, Interaction: B1)
