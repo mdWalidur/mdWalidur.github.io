@@ -1,13 +1,78 @@
-remote_theme: "mmistakes/minimal-mistakes"
+# _config.yml
+
+# Use the Minimal Mistakes remote theme
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+
+# Plugins to extend functionality
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-include-cache
 
-title: "Md Walidur Rahman"
-description: "IT expert"
+# Site settings
+title: "Md Walidur Rahman's Tech Hub"
+description: "Insights, tutorials, and news on IT and software development"
+baseurl: ""        # The subpath of your site, e.g. /blog
+url: "https://mdwalidurrahman.com"   # The base hostname & protocol for your site
 minimal_mistakes_skin: "air"
 
+# Author information
 author:
   name: "Md Walidur Rahman"
-  avatar: "/path/to/avatar.jpg" # Replace with the actual path to your profile picture
-  bio: "IT expert and enthusiast"
+  avatar: "/assets/images/profile.jpg"   # Update this to your actual profile picture path
+  bio: "IT expert, software developer, and tech enthusiast sharing tips and insights."
+  email: "contact@mdwalidurrahman.com"
+  location: "Dhaka, Bangladesh"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/mdwalidurrahman"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/mdwalidurrahman"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/mdwalidurrahman"
+
+# Navigation settings
+header:
+  navigation:
+    - title: "Home"
+      url: /
+    - title: "About"
+      url: /about/
+    - title: "Blog"
+      url: /blog/
+    - title: "Projects"
+      url: /projects/
+
+# Footer social links (displayed as icons)
+footer:
+  social:
+    - title: "GitHub"
+      url: "https://github.com/mdwalidurrahman"
+      icon: "fab fa-github"
+    - title: "LinkedIn"
+      url: "https://linkedin.com/in/mdwalidurrahman"
+      icon: "fab fa-linkedin"
+    - title: "Twitter"
+      url: "https://twitter.com/mdwalidurrahman"
+      icon: "fab fa-twitter"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# SEO settings for enhanced search engine presence
+seo:
+  type: "Person"
+  name: "Md Walidur Rahman"
+  description: "IT expert and technology enthusiast dedicated to sharing insights and expertise."
+
+# Other optional configurations (uncomment and modify as needed)
+# exclude: [README.md, Gemfile, Gemfile.lock]
+# include: [".htaccess"]
+
+# End of configuration
